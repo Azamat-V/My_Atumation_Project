@@ -1,0 +1,4 @@
+/**
+ * Selenium tests
+ */
+package seleniumTests;
